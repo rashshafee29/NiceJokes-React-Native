@@ -1,0 +1,6 @@
+module Pods_NiceJokes_NiceJokesTests {
+  umbrella header "Pods-NiceJokes-NiceJokesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
